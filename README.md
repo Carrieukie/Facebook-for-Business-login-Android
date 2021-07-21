@@ -12,9 +12,10 @@ link : https://developers.facebook.com/docs/facebook-login/android
 
 ## Screenshots
 
+ <img src="https://github.com/Carrieukie/Facebook-login-Android/blob/main/assets/20210721_122017.gif" width="320"/>
+
  <img src="https://github.com/Carrieukie/Facebook-login-Android/blob/main/assets/20210721_122517.gif" width="320"/>
 
- <img src="https://github.com/Carrieukie/Facebook-login-Android/blob/main/assets/20210721_122017.gif" width="320"/>
 
 
 
